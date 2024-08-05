@@ -29,7 +29,8 @@ ANTHROPIC_API_KEY=your_anthropic_api_key
 
 
 3. **Uygulamayı Çalıştırın:**
-
+   
+```bash
 streamlit run app.py
 
 
