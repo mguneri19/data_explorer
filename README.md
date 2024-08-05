@@ -19,21 +19,23 @@ Bu uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
    ```bash
    pip install -r requirements.txt
 
+
 2. **Çevresel Değişkenleri Ayarlayın:**
 .env dosyası oluşturup, aşağıdaki API anahtarlarını ekleyin:
 
+```bash
 
 OPENAI_API_KEY=your_openai_api_key
 ANTHROPIC_API_KEY=your_anthropic_api_key
 
-
+```
 
 3. **Uygulamayı Çalıştırın:**
    
 ```bash
 streamlit run app.py
 
-
+```
 ## Kullanım
 
 ### 1. Veri Yükleme:
