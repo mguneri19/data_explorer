@@ -16,9 +16,10 @@ Bu uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Gereksinimleri Yükleyin:**
 
-   ```bash
-   pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 
+```
 
 2. **Çevresel Değişkenleri Ayarlayın:**
 .env dosyası oluşturup, aşağıdaki API anahtarlarını ekleyin:
